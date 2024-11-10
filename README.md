@@ -1,1 +1,1 @@
-# customer_behavior
+# Predicting Customer Purchase Behavior Based on Price Changes Using Logistic Regression
